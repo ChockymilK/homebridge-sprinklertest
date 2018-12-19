@@ -1,6 +1,6 @@
-# homebridge-fakebulb
+# homebridge-sprinklertest
 
-Simulates a (fake) light bulb device on HomeBridge Platform
+
 
 # Installation
 
