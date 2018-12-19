@@ -12,8 +12,18 @@
         {
             "accessory":      "FakeBulb",
             "name":           "Test lamp",
-            "bulb_name":      "Lamp 1"
-        }
+            "pin": 21
+        },
+        {
+            "accessory":      "Switch",
+            "name":           "Back Lawn (front)",
+            "pin": 11
+        },
+        {
+            "accessory":      "Switch",
+            "name":           "Back Lawn (back)",
+            "pin": 13
+        },
     ],
 
     "platforms": []
