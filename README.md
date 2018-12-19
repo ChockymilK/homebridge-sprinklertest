@@ -14,11 +14,11 @@ Configuration sample:
 
  ```
 "accessories": [
-        {
-            "accessory":      "FakeBulb",
-            "name":           "Test lamp",
-            "bulb_name":      "Lamp1"
-        }
-]
+    {
+        "accessory":      "Switch",
+        "name":           "Back Lawn (front)",
+        "pin": 11
+    },
+
 
 ```
