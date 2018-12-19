@@ -1,5 +1,5 @@
 {
-  "name": "homebridge-fakebulb",
+  "name": "homebridge-sprinklertest",
   "version": "0.0.3",
   "description": "Fake bulb plugin for homebridge: https://github.com/nfarina/homebridge",
   "license": "MIT",
